@@ -1,0 +1,7 @@
+../Core/Src/program.c:27:6:seven_segment_display_decimal	16	static
+../Core/Src/program.c:40:6:seven_segment_deactivate_digits	16	static
+../Core/Src/program.c:47:6:seven_segment_activate_digit	16	static
+../Core/Src/program.c:54:6:seven_segment_set_num	24	static
+../Core/Src/program.c:64:6:seven_segment_refresh	8	static
+../Core/Src/program.c:76:6:programInit	16	static
+../Core/Src/program.c:82:6:programLoop	8	static
